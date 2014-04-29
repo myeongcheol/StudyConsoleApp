@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            var nm = new { name = "chols", company = "sep" };
+            var nm = new { name = "myeongcheol", company = "sep" };
             Console.WriteLine(nm.name + ":" + nm.company);
         }
     }
